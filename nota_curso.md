@@ -1,0 +1,5 @@
+- Todos los ejecutables de go deben ser del package main
+- los ; no son necesarios
+- go build transforma el script a un binario
+- go run ejecuta un script
+- El binario generado es multi plataforma pero debe estar instalado go en la maquina para que funcione.
